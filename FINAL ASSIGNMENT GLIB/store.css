@@ -1,0 +1,155 @@
+#welcome{
+    text-align: center;
+    margin-top: 20px;
+}
+
+#macbook{
+    margin-left: 1%;
+    width: 32%;
+    height: 30%;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+#welcomeimage {
+
+    width: 100%;
+    height: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
+hr {
+    color: black;
+    width: 93%;
+    height: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom-style: solid;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    margin-left: 1%;
+    width: 32%;
+    height: 30%;
+}
+
+#text1, #text7, #text13 {
+    display: inline-block;
+    margin-left: 3.5%;
+}
+
+#text2 {
+    display: inline-block;
+    margin-left: 10.5%;
+    width: 31.5%;
+    text-align: center;
+}
+#text3 {
+    display: inline-block;
+    margin-left: 8%;
+    text-align: right;
+    width: 30%;
+    
+}
+
+
+#text4, #text10, #text16, #text19{
+    float:left;
+    margin-left: 3.5%;
+    width:30.5%;
+    text-align: justify;
+}
+
+
+
+#text22{
+    position: absolute;
+    top:3420px;
+    left:3%;
+}
+
+#text5, #text11, #text17 {
+    float:left;
+    margin-left: 1%;
+    width:30.5%;
+    text-align: justify;
+}
+
+#text6, #text12, #text18 {
+    float:left;
+    margin-left: 1%;
+    width:30.5%;
+    text-align: justify;
+}
+
+
+#text8 {
+    display: inline-block;
+    margin-left: 1.2%;
+    width: 30.3%;
+    text-align: right;
+}
+#text9 {
+    display: inline-block;
+    width: 30%;
+    text-align: right;
+}
+
+#text14 {
+    display: inline-block;
+    margin-left: 13.5%;
+    width: 31.5%;
+    text-align: center; 
+}
+#text15 {
+    display: inline-block;
+    margin-left: 2%;
+    width: 30%;
+    text-align: right;
+}
+
+ #text20 {
+    display: inline-block;
+    width: 14%;
+    text-align: center; 
+ }
+ #text23 {
+    float:left;
+    margin-left: 0%;
+    width:60%;
+    text-align: left;
+ }
+ 
+ #text23,#text25{
+    position: absolute;
+    margin-top: auto;
+    left:3%;
+    top:3460px;
+}
+
+#text24{
+    top:3290px;
+
+    margin-top: auto;
+    left:3%;
+}
+
+#text25{
+
+    margin-top: unset;
+    
+    left:3%;
+    top:3480px;
+}
